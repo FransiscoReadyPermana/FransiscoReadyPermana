@@ -13,10 +13,9 @@
 # 📊 GitHub Stats:
 <div align = "center">
   <div>
-    
-![](https://github-readme-stats.vercel.app/api?username=FransiscoReadyPermana&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=FransiscoReadyPermana&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FransiscoReadyPermana&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+    <img src="https://github-readme-stats.vercel.app/api?username=FransiscoReadyPermana&theme=radical&hide_border=false&include_all_commits=false&count_private=true" alt="langs" height="165">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=FransiscoReadyPermana&theme=radical&hide_border=false" alt="langs" height="165">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FransiscoReadyPermana&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="langs" height="165">
   </div>
 </div>
 
